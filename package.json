@@ -1,0 +1,23 @@
+{
+  "name": "error-response",
+  "version": "1.0.0",
+  "description": "Easily create error objects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc",
+    "buildDev": "tsc --watch",
+    "test": "nodemon dist/sandbox.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "error",
+    "response"
+  ],
+  "author": "dubbelster",
+  "license": "ISC"
+}
