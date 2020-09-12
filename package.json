@@ -1,5 +1,5 @@
 {
-  "name": "error-response",
+  "name": "dubbelerror",
   "version": "1.0.0",
   "description": "Easily create error objects",
   "main": "dist/index.js",
